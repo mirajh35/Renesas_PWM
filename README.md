@@ -1,4 +1,4 @@
-#Generování PWM signálu
+# Generování PWM signálu
 
 ![image](https://github.com/mirajh35/Renesas_PWM/assets/159266037/0b94d175-8cbf-477e-b086-ddb3a3ff4428)
 
