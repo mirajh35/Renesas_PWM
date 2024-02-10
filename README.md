@@ -4,6 +4,8 @@
 
 ![image](https://github.com/mirajh35/Renesas_PWM/assets/159266037/5e6b313b-585c-480a-afec-70b86d8346e6)
 
+![image](https://github.com/mirajh35/Renesas_PWM/assets/159266037/440dd801-df02-4b45-801a-6d81221d2119)
+
 ![image](https://github.com/mirajh35/Renesas_PWM/assets/159266037/b6287446-2e2b-481a-b0ab-834235635cd4)
 
 
